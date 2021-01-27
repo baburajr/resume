@@ -121,6 +121,11 @@
   margin: 0;
 }
 
+/*added custom css for margin in projects*/
+.experience__role {
+  margin-block-start: auto;
+}
+
 .l-header {
   background-color: var(--primary);
   margin-bottom: 25px;
